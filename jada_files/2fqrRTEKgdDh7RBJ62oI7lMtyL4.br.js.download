@@ -1,0 +1,1 @@
+(function(){var n=setInterval(function(){_qs("body #svhvr")&&(_d.body.classList.add("b_rct"),clearInterval(n))},500)})()
